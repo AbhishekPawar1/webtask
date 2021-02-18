@@ -1,0 +1,806 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: T3Font_2;
+    width: 100%;
+width: auto;
+}
+.img-logo img{
+
+    width: 180px;
+    height: 80px;
+  text-align: center;
+  position: absolute;
+  top: 15%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+}
+.text header{
+    display: none;
+}
+
+.text
+{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+
+}
+.text h1{
+    float: left;
+    width: 100%;
+    margin-left: 15%;
+    font-size: 55px;
+font-family: sans-serif;}
+.text h3{
+    width: 100%;
+    margin-left: 15%;
+    font-size: x-large;
+    color: rgb(65, 63, 63);
+margin-top: 100px;
+}
+.text button{
+    float: left;
+margin-left: 40%;
+    font-size: 20px;
+    margin-top: 20px;
+  width: 170px;
+  height: 60px;
+  border: none;
+    border-radius: 200px;
+    background-color:rgb(34, 114, 189);
+    color:white;
+
+}
+
+
+.img1 img{
+    width: 100%;
+    height: 500px;
+}
+.conataintline-1{
+border: 1px solid blue;
+width: 6px;
+float: left;
+height: 35px;
+background-color: blue;
+margin-right: 30px;
+}
+.text-2{
+font-size:x-large;
+margin: 5px;
+word-spacing: 10px;
+line-height: 1.8;
+
+}
+.image2{width: auto;
+    margin-top: 0;
+    width: 500px;
+    height: 400px;
+    float: right;
+}
+
+.containt-1{
+    margin-top: 30px;
+    width: auto;
+ margin-left: 10%;
+}
+.heading{
+    margin-bottom: 20px;
+    position: absolute;
+display: inline-flex;
+margin-left: 14%;
+margin-top: 10px;
+font-size: x-large;
+
+}
+
+.heading1{
+    margin-right: 15px;
+    position: absolute;
+margin-top: 15px;
+margin-bottom: 20px;
+}
+
+.heading1 img
+{
+    margin-right: 15px;
+position: absolute;
+margin-left: 150px;
+height: 20px;
+width: 20px;
+}
+
+.head1 img{
+    margin-bottom: 20px;
+    margin-top: 60px;
+    margin-right: 15px;
+position: absolute;
+margin-left: 150px;
+height: 20px;
+width: 20px;
+}
+.head2 img{
+    margin-bottom: 20px;
+margin-top: 100px;
+        margin-right: 15px;
+position: absolute;
+margin-left: 150px;
+height: 20px;
+width: 20px;
+
+}
+.headtext1{
+    margin-bottom: 20px;
+    margin-right: 15px;
+    position: absolute;
+margin-top: 60px;
+
+position: absolute;
+display: inline-flex;
+margin-left: 14%;
+margin-top: 50px;
+font-size: x-large;
+
+}
+.headtext2{
+    margin-bottom: 20px;
+    position: absolute;
+    display: inline-flex;
+    margin-left: 14%;
+    margin-top: 90px;
+    font-size: x-large;
+
+}
+
+.getstartbtn button{
+    font-size: xx-large;
+    width: 300px;
+    height: 80px;
+margin-top: 10%;
+border-radius: 10px;
+    margin-left: 15%;
+color: white;
+    border: none;
+    background-color:rgb(34, 114, 189);
+}
+
+.conataintline-2{
+margin-right: 10px;
+    margin-top: 50px;
+    border: 1px solid blue;
+    width: 6px;
+    float: left;
+    height: 35px;
+    background-color: blue;
+margin-left: 10%;
+    }
+    .conataintline-2 h1{
+        width: 500px;
+margin-left: 40px;
+        display: inline-flex;
+
+    }
+    .left-poster{
+        margin-bottom: 30px;
+        margin: 80px;
+    }
+    .left-poster img{
+        margin-left: 40px;
+        margin-bottom: 50px;
+        width: 250px;
+        height: 230px;
+    }
+
+    .budgetext img
+    {
+        top: 0px;
+        margin-left: 80px;
+    }
+    .budget p{
+     position: absolute;
+        font-size: 45px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 10%;
+    }
+    .paragrapgh-1 p{
+        margin-left: 10%;
+    }
+    .paragrapgh-1
+{
+    font-size:x-large;
+    margin: 5px;
+    word-spacing: 10px;
+    line-height: 1.8;
+
+}
+
+.paraimg img{
+    width: auto;
+    width: 100%;
+    float: right;
+    width: 400px;
+    height: 250px;
+}
+.firstimg{
+ position: absolute;
+    margin-top: 10%;
+    margin-left: 45%;
+
+}
+.firstimg img{
+    width: 350px;
+height: 200px;
+}
+
+.budgetext1 img{
+    position: absolute;
+    margin-top: 50px;
+     margin-left: 80px;
+}
+
+.posterhead p{
+    margin-top: 60px;
+    position: absolute;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10%;
+
+}
+.poster-img img{
+}
+.posimg1{
+    position: absolute;
+    width: 200px;
+    height: 250px;
+margin-top: 10%;
+float: left;
+}
+
+.posimg2{
+    width: 200px;
+    height: 250px;
+float: right;
+margin-top: 10%;
+margin-left: 45%;
+position: absolute;
+}
+
+.postertxt{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.postertxt p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    line-height: 1.8;
+    color:rgb(75, 71, 71);
+}
+.imgbg1 img{
+    margin-left: 10%;
+    width: 350px;
+    height: 300px;
+    float: left;
+}
+.imgbg2 img{
+    margin-right: 10%;
+    width: 350px;
+    height: 300px;
+    float: right;
+}
+
+.posdes p{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+    margin-left: 16%;
+    margin-top: 8%;
+}
+.posterrev p
+{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+float: right;
+right: 15%;
+margin-top: 6%;
+}
+
+.postimgbtn{
+    box-shadow: black;
+    width: auto;
+    margin-top: 40%;
+border: 1px solid black;
+height: 15vh;
+width: 80%;
+margin-left: 10%;
+margin-bottom: 30px;
+}
+.postimgbtn p{
+    margin: 30px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.postimgbtn .posbtn{
+right: 15%;
+margin-top: -5%;
+width: 170px;
+
+color: white;
+border-radius: 200px;
+font-size: x-large;
+background-color:rgb(34, 114, 189);
+height: 50px;
+    position: absolute;
+    float: right;
+}
+
+.table-1 img{
+margin-top: 50px;
+    margin-left: 10%;
+    width: 650px;
+    height: 450px;
+}
+
+.table-img img{
+
+position: absolute;
+right: 0;
+margin-top: 160px;
+    width: 550px;
+    height: 450px;
+    float: right;
+margin-right: 5%;
+}
+
+.line-1{
+    margin-top: 50px;
+}
+.line-1 img{
+    width: 7px;
+    height: 40px;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 11%;
+}
+.line-1 p{
+    font-size: xx-large;
+font-family: Arial, Helvetica, sans-serif;
+    margin-left: 14%;
+    word-spacing: 5px;
+    margin-top: 11%;
+    position: absolute;
+}
+.othercotent img{
+    left: 0;
+    position: absolute;
+    margin-top: 20%;
+    width: 350px;
+    height: 100px;
+}
+.othercotent p{
+    font-size: x-large;
+    margin-left: 20%;
+    margin-top: 22%;
+}
+
+.othercotent1 img{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 42%;
+    width: 350px;
+    height: 100px;
+}
+
+.othercotent1 p{
+    font-size: x-large;
+    margin-left: 52%;
+    margin-top: 22%;
+}
+
+.othercotent2 img{
+    position: absolute;
+    margin-top: 20%;
+    right: 30px;
+    width: 350px;
+    height: 100px;
+}
+.othercotent2 p{
+    font-size: x-large;
+right: 40px;
+    margin-top: 22%;
+}
+
+.othercotent3 img{
+    left: 0;
+    position: absolute;
+    margin-top: 30%;
+    width: 350px;
+    height: 100px;
+}
+.othercotent3 p{
+    font-size: x-large;
+    margin-left: 20%;
+    margin-top: 32%;
+}
+.othercotent4 img{
+    left: 0;
+    position: absolute;
+    margin-top: 30%;
+    width: 350px;
+    height: 100px;
+    margin-left: 42%;
+}
+.othercotent4 p{
+    font-size: x-large;
+    margin-left: 52%;
+    margin-top: 32%;
+}
+
+.othercotent5 img{
+    position: absolute;
+    margin-top: 30%;
+    right: 30px;
+    width: 350px;
+    height: 100px;
+}
+.othercotent5 p{
+    font-size: x-large;
+right: 40px;
+    margin-top: 32%;
+}
+
+.othercotent6 img{
+    left: 0;
+    position: absolute;
+    margin-top: 40%;
+    width: 350px;
+    height: 100px;
+}
+.othercotent6 p{
+    font-size: x-large;
+    margin-left: 20%;
+    margin-top: 42%;
+}
+.othercotent7 img{
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 42%;
+    width: 350px;
+    height: 100px;
+}
+
+.othercotent7 p{
+    font-size: x-large;
+    margin-left: 52%;
+    margin-top: 42%;
+}
+
+.othercotent8 img{
+    position: absolute;
+    margin-top: 40%;
+    right: 30px;
+    width: 350px;
+    height: 100px;
+}
+.othercotent8 p{
+    font-size: x-large;
+right: 40px;
+    margin-top: 42%;
+}
+.postimgbtn-1{
+    box-shadow: black;
+    width: auto;
+    margin-top: 60%;
+border: 1px solid black;
+height: 15vh;
+width: 80%;
+border-radius: 10px;
+margin-left: 10%;
+margin-bottom: 30px;
+background-image: url("Designing Studio poster – 3.png");
+}
+
+.postimgbtn-1 p{
+
+font-size: xx-large;
+    color: rgb(148, 140, 140);
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.postimgbtn-1 .posbtn{
+right: 15%;
+margin-top: -5%;
+width: 170px;
+
+color: white;
+border-radius: 200px;
+font-size: x-large;
+background-color:rgb(34, 114, 189);
+height: 50px;
+    position: absolute;
+    float: right;
+}
+.Group_1815 img{
+    position: absolute;
+width: 100%;
+}
+
+.txt1 {
+    position: absolute;
+margin-left: 23%;
+margin-top: 10%;
+font-size: xx-large;
+transform: translate(-50%, -50%);
+}
+.txt1 p{
+    margin-left: 30px;
+}
+
+.budgetext3 img{
+    position: absolute;
+    margin-right: 20px;
+    height: 40px;
+
+}
+.Group_6{
+    margin-top: 60%;
+    margin-left: 40%;
+}
+.postimgbtn-2{
+    border: 1px solid black;
+    height: 15vh;
+    width: 80%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+background-color: rgb(66, 173, 216);
+margin-left: 10%;
+}
+
+.postimgbtn-2 p{
+
+    font-size: xx-large;
+color: white;
+
+margin: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .postimgbtn-2 .posbtn{
+    right: 15%;
+    margin-top: -5%;
+    width: 150px;
+
+    color: white;
+    border-radius: 200px;
+    font-size: large;
+background-color: rgb(84, 179, 216);
+border-color: white;
+height: 30px;
+        position: absolute;
+        float: right;
+    }
+
+    .footer{
+        width: 100%;
+        height: 500px;
+        color: skyblue;
+        background-color:rgb(4, 29, 53);
+    }
+    .link{
+
+        margin-left: 10%;
+
+    }
+    .link h2{
+        position: absolute;
+        margin-top: 5%;
+    }
+    .link p{
+        color: white;
+        position: absolute;
+margin-top: 10%;
+line-height: 1.2;
+
+    }
+    .middlelink p{
+        position: absolute;
+margin-top: 10%;
+color: white;
+ margin-left: 35%;
+line-height: 1.2;
+    }
+    .address h2{
+        position: absolute;
+        margin-top: 10%;
+        margin-left: 60%;
+    }
+
+    .address p{
+        position: absolute;
+        color: white;
+        margin-top: 15%;
+        margin-left: 60%;
+    }
+.address small{
+    position: absolute;
+    margin-left: 30%;
+    color: white;
+    margin-top: 35%;
+}
+.btn1{
+
+margin-left: 60%;
+    margin-top: 25%;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+}
+.btn2{
+    position: absolute;
+margin-left: 5%;
+        margin-top: 25%;
+        width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    }
+
+    @media ( max-width:700px)
+    {
+        .text h1{
+        display: none;
+        }
+        .text h3{
+        display: inline-table;
+        float: left;
+        }
+        .img-logo img{
+        margin-left: 20px;
+        }
+        .text header{
+        display: inline-flex;
+        font-size: xx-large;
+margin-left: 70px;
+width: auto;
+margin-top: 200px;
+    }
+    .text-2
+{
+    display: none;
+
+}
+
+.head1 img
+{
+    display: none;
+}
+.headtext2{
+    display: none;
+}
+.head2
+{
+     display: none;
+    }
+.head3{
+    display: none;
+}
+
+.headtext1 p{
+    display: none;
+}
+.heading p{
+display: none;
+
+}
+.heading1 img{
+    display: none;
+}
+.conataintline-1{
+        left: 0vw;
+        margin-top: 0%;
+        margin-right: 20px;
+    }
+
+    .conataintline-1{
+display: none;
+    }
+    .containt-1 h1{
+        position: absolute;
+margin-top: 50%;
+margin-left: 20px;
+display: none;
+    }
+    .conataintline-2 h1{
+        width: 300px;
+margin-left: 40px;
+        display: inline-flex;
+
+    }
+.text h3{
+    width: auto;
+    width:500px;
+    margin-left: 25%;
+    font-size: large;
+    color: rgb(43, 41, 41);
+margin-top: 100px;
+}
+.budgetext{
+    display: none;
+}
+.paraimg{
+    display: none;
+}
+.firstimg
+{
+    display: none;
+}
+.paragrapgh-1 p{
+    margin-top: 50%;
+}
+.budgetext1 img{
+    display: none;
+}
+
+.postertxt p{
+margin-top: 50%;
+}
+
+.postimgbtn-2 p{
+
+    font-size: large;
+color: white;
+
+margin: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .postimgbtn-2 .posbtn{
+    right: 20%;
+    margin-top: -2%;
+    width: 150px;
+
+    color: white;
+    border-radius: 200px;
+    font-size: large;
+background-color: rgb(84, 179, 216);
+border-color: white;
+height: 30px;
+        position: absolute;
+        float: right;
+    }
+    .middlelink p{
+        position: absolute;
+margin-top: 70%;
+color: white;
+ margin-left: 10%;
+line-height: 1.2;
+}
+.btn1{
+
+    margin-left: 55%;
+        margin-top: 65%;
+        width: 100px;
+        height: 30px;
+        border-radius: 20px;
+    }
+    .btn2{
+        position: absolute;
+    margin-left: 2%;
+            margin-top: 65%;
+            width: 100px;
+        height: 30px;
+        border-radius: 20px;
+        }
+        .address small{
+        display: none;
+        }
+        .table-img{
+            display: none;
+        }
+        .table-1{
+            position: absolute;
+            width: 100px;
+
+        }
+}
